@@ -1,0 +1,14 @@
+.nova_cle
+nova_config.json
+nova_contacts.json
+nova_memoire.json
+nova_appris.json
+nova_dialogues.json
+nova_batterie.json
+nova_veille_etat.json
+nova_journal.txt
+nova_doublons.txt
+nova_lourds.txt
+nova_corbeille/
+nova_sauvegarde*.py
+*.log
